@@ -1,7 +1,7 @@
 # Hyprland Config
 
-    - Personal hyprland config on arch (yes, I use arch btw)
-    - Includes config for hyprland, waybar, rofi, alacritty, hyprlock
+- Personal hyprland config on arch (yes, I use arch btw)
+- Includes config for hyprland, waybar, rofi, alacritty, hyprlock
 
 
 
